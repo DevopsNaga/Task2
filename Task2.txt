@@ -1,0 +1,5 @@
+# Create the file
+touch /home/demo.txt
+
+# Set permissions as specified
+chmod 744 /home/demo.txt
